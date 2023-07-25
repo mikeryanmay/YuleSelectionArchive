@@ -4,26 +4,7 @@ This repository contains code for recreating simulations and analyses from the m
 
 ## Dependencies
 
-The following `R` packages are required to run the code in this archive:
-- `parallel`
-- `ape`
-- `phangorn`
-- `TESS`
-- `expm`
-- `Rcpp`
-- `RcppEigen`
-- `matrixStats`
-- `ape`
-- `TreeTools`
-- `RColorBrewer`
-- `ggplot2`
-- `viridis`
-- `cubature`
-- `dispRity`
-- `Matrix`
-- `deSolve`
-- `pracma`
-- `abind`
+The following `R` packages are required to run the code in this archive: `parallel`, `ape`, `phangorn`, `TESS`, `expm`, `Rcpp`, `RcppEigen`, `matrixStats`, `ape`, `TreeTools`, `RColorBrewer`, `ggplot2`, `viridis`, `cubature`, `dispRity`, `Matrix`, `deSolve`, `pracma`, `abind`
 
 ## Shared scripts
 
